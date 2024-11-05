@@ -40,7 +40,7 @@ Each repository linked here contains its own README file with project-specific i
 
 For any questions, issues, or collaboration requests, please reach out via GitHub Issues or open a pull request in the respective repository.
 
-Happy coding! 🎉
+Happy coding! 🥳
 
 ---
 
